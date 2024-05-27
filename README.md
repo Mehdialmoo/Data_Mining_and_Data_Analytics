@@ -1,17 +1,19 @@
 # **Data Mining and Data Analytics Lessons**
+![](DMA.jpg)
 ## introduction
 This repository contains a collection of lessons and resources related to data mining and data analytics. The lessons cover various topics, including denoising images, ensemble algorithms, fake news recognition, hierarchical clustering, k-means, neural networks, and image segmentation. The repository also includes an assignment section for hands-on practice.
 
 ## Table of Contents
-- Denoising Images
-- Ensemble Algorithms
-- Fake News Recognition
-- Hierarchical Clustering
-- K-Means
-- Neural Networks: Perceptron
-- Neural Networks: Feed Forward
-- Image Segmentation
-- Assignments
+- [Denoising Images](#denoising-images)
+- [Ensemble Algorithms](#ensemble-algorithms)
+- [Fake News Recognition](#fake-news-recognition)
+- [Hierarchical Clustering](#hierarchical-clustering)
+- [K-Means](#k-means)
+- [Neural Networks: Perceptron](#neural-networks-perceptron)
+- [Neural Networks: Feed Forward](#neural-networks-feed-forward)
+- [Image Segmentation](#image-segmentation)
+- [Assignments](#assignments)
+- [Conclusion](#conclusion)
 
 in the following sections we will dive deeper in every section, and getting more to know about :
 
